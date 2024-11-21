@@ -38,5 +38,49 @@
       "Introduction",
       "Course Schedule"
     ]
+  },
+  {
+    "objectID": "intro/gen-form.html",
+    "href": "intro/gen-form.html",
+    "title": "General Formatting Examples",
+    "section": "",
+    "text": "This is a youtube link.\nThis is a link to the home page.\n\n\n\nThis is the bioinformatics.ca logo.\n\n\n\nbioinformatics.ca logo\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important.",
+    "crumbs": [
+      "Introduction",
+      "General Formatting Examples"
+    ]
+  },
+  {
+    "objectID": "intro/gen-form.html#links",
+    "href": "intro/gen-form.html#links",
+    "title": "General Formatting Examples",
+    "section": "",
+    "text": "This is a youtube link.\nThis is a link to the home page.",
+    "crumbs": [
+      "Introduction",
+      "General Formatting Examples"
+    ]
+  },
+  {
+    "objectID": "intro/gen-form.html#images",
+    "href": "intro/gen-form.html#images",
+    "title": "General Formatting Examples",
+    "section": "",
+    "text": "This is the bioinformatics.ca logo.\n\n\n\nbioinformatics.ca logo",
+    "crumbs": [
+      "Introduction",
+      "General Formatting Examples"
+    ]
+  },
+  {
+    "objectID": "intro/gen-form.html#callouts",
+    "href": "intro/gen-form.html#callouts",
+    "title": "General Formatting Examples",
+    "section": "",
+    "text": "Important\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important.",
+    "crumbs": [
+      "Introduction",
+      "General Formatting Examples"
+    ]
   }
 ]
