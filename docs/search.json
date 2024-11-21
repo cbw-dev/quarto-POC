@@ -1,16 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\nsection\nyayayyaya\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quarto Demo",
@@ -19,6 +8,17 @@
     "crumbs": [
       "Home",
       "Introduction"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nsection\nyayayyaya\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "About"
     ]
   }
 ]
