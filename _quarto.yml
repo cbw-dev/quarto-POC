@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - "*.md"
+    - "*.Rmd"
     - "!README.md"
 
 website:
