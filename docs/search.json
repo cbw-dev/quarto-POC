@@ -2,23 +2,41 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Demo",
+    "title": "Welcome to the Quarto POC",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nSee the about\n\n\n\n Back to top",
+    "text": "This is a Quarto website. This is the landing page - index.qmd.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "content/day-1.html",
+    "href": "content/day-1.html",
+    "title": "Day 1",
+    "section": "",
+    "text": "Day 1\n\n\n\n\n Back to top",
     "crumbs": [
-      "Home",
-      "Introduction"
+      "Content",
+      "Day 1"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "content/day-2.html",
+    "href": "content/day-2.html",
+    "title": "Day 2",
     "section": "",
-    "text": "About this site\n\nsection\nyayayyaya\n\n\n\n\n Back to top",
+    "text": "Day 2\n\n\n\n\n Back to top",
     "crumbs": [
-      "Home",
-      "About"
+      "Content",
+      "Day 2"
+    ]
+  },
+  {
+    "objectID": "intro/course-schedule.html",
+    "href": "intro/course-schedule.html",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "Course Schedule\n\n\n\n\n\n\n\n\n\n\nCBW’s Introduction to R workshop (INR) 2024\n\n\n\n\n\n\n\n\nDay 1\n\nDay 2\n\n\n\n\nJune 11\n\nJune 12\n\n\n\n\nTime (EDT)\nModule\nTime (EDT)\nModule\n\n\n\n8:30\nArrivals & Check-in\n8:30\nArrivals\n\n\n\n9:00\nWelcome (Nia Hughes)\n9:00\nReview & Module 3: Loops and functions (Frances Wong)\n\n\n\n9:30\nModule 1: Getting to Know R (Frances Wong)\n10:00\nBreak (15min)\n\n\n\n10:30\nBreak (15min)\n10:15\nModule 3: Loops and functions (cont’d)\n\n\n\n10:45\nModule 1: Getting to Know R (cont’d)\n11:00\nBreak (15min)\n\n\n\n11:15\nBreak (15min)\n11:15\nModule 3: Loops and functions (cont’d)\n\n\n\n11:30\nModule 1: Getting to Know R (cont’d)\n12:00\nClass Photo + Break (1h)\n\n\n\n12:00\nBreak (1h)\n13:00\nModule 4: Linear regression (Frances Wong)\n\n\n\n13:00\nModule 2: Exploring your data in R (Frances Wong)\n14:00\nBreak (15min)\n\n\n\n14:00\nBreak (15min)\n14:15\nModule 4: Linear regression (cont’d)\n\n\n\n14:15\nModule 2: Exploring your data in R (cont’d)\n15:15\nBreak (15min)\n\n\n\n15:15\nBreak (15min)\n15:30\nShort Project\n\n\n\n15:30\nReview and Short project\n17:00\nSurvey & Closing Remarks\n\n\n\n17:30\nFinished\n17:30\nFinished\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introduction",
+      "Course Schedule"
     ]
   }
 ]

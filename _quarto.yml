@@ -7,7 +7,7 @@ project:
     - "!README.md"
 
 website:
-  title: "Quarto Demo"
+  title: "Quarto POC"
   favicon: img/favicon.ico
   page-navigation: true
   back-to-top-navigation: true
@@ -16,32 +16,28 @@ website:
   navbar:
     logo: img/favicon.ico
     logo-alt: Bioinformatics.ca Logo
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Introduction
+        href: intro/course-schedule.qmd
+      - text: Content
+        href: content/day-1.qmd
   
   sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - text: "Introduction"
-        href: index.qmd
-      - text: "---"
-      - section: "About"
-        href: about.qmd
-        contents:
-          - about.qmd
-    
-    tools:
-      - icon: youtube
-        href: https://www.youtube.com/@bioinformaticsdotca
-      - icon: github
-        menu:
-          - text: Source Code
-            href:  https://github.com/cbw-dev/
-          - text: Report a Bug
-            href:  https://github.com/cbw-dev/
+    - title: "Introduction"
+      style: "docked"
+      background: light
+      contents:
+        - intro/course-schedule.qmd
+        - intro/gen-form.qmd
+
+    - title: "Content"
+      contents:
+        - content/day-1.qmd
+        - content/day-2.qmd
+
 
   page-footer:
     left: "Copyright 2024, CBW DEV?" 
@@ -60,6 +56,3 @@ format:
     theme: cosmos
     css: styles.css
     toc: true
-
-
-

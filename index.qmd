@@ -1,9 +1,7 @@
 ---
-title: "Quarto Demo"
+title: "Welcome to the Quarto POC"
 ---
 
-This is a Quarto website.
+This is a Quarto website. This is the landing page - index.qmd.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-See the [about](about.qmd#section)
